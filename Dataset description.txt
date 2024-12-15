@@ -4,9 +4,9 @@ by country and by year and ended up being www.kaggle.com/datasets/anshtanwar/glo
 In this set, along some useless data we removed, there are some metrics related to our case study: 
 percentage of the population with access to electricity, total electricity generated from fossil fuels, 
 total electricity generated from nuclear, total electricity generated from renewables, renewable electricity consumption per capita, CO2 emissions per capita.
-  At First we wanted to replace the CO2 column with data from another ad hoc dataset but, upon further analysis of the data at hand, it was concluded it could perform well enough. 
-We then tried taking the average temperature of countries from an agricoltural dataset but it ended up containing too few countries to be of any use, 
-so it was scrapped as well.
+  At First we wanted to replace the CO2 column with data from another ad hoc dataset but, upon further analysis of the data at hand, 
+it was concluded it could perform well enough. We then tried taking the average temperature of countries from an agricoltural dataset 
+but it ended up containing too few countries to be of any use, so it was scrapped as well.
    With the agricoltural dataset being removed we looked for another Kaggle entry with quality data on the average temperature by country in the time frame 
 of our interest but we couldn't find any so we ended up setting on www.kaggle.com/datasets/jawadawan/global-warming-trends-1961-2022, 
 a dataset with the average temperature increase by year, as it could fulfill the task anyway.
