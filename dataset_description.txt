@@ -12,7 +12,8 @@ With the agricoltural dataset being removed we looked for another Kaggle entry w
 but we couldn't find any so we ended up setting on www.kaggle.com/datasets/jawadawan/global-warming-trends-1961-2022, 
 a dataset with the average temperature increase by year, as it could fulfill the task anyway.
    
-The energy and temperature datasets had some missing values for key countries in our analysis so we manually added data for Russia (from https://www.iea.org/countries/russia/electricity, https://www.macrotrends.net/global-metrics/countries/rus/russia/electricity-access-statistics, https://www.worldometers.info/co2-emissions/russia-co2-emissions/) 
+The energy and temperature datasets had some missing values for key countries in our analysis so we manually added data for Russia (from https://www.iea.org/countries/russia/electricity,
+https://www.macrotrends.net/global-metrics/countries/rus/russia/electricity-access-statistics, https://www.worldometers.info/co2-emissions/russia-co2-emissions/) 
 and South Korea (from https://www.iea.org/countries/korea/electricity, https://www.iea.org/countries/russia/emissions) in the first and for Russia 
 (from https://www.statista.com/statistics/1057448/russia-temperature-change/) in the latter.
 
