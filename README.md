@@ -3,20 +3,3 @@ This is the dataset preparation for the project of the Data Visualization course
 
 In this repository you'll find a Jupyter Notebook file with the code that was used to create the dataframe for the project, 
 a folder with additional data taken from sources different from Kaggle and a text file that explains the process.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ti prego Noemi dacci 31 UwU
